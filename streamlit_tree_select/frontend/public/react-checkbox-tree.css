@@ -201,13 +201,13 @@
 }
 
 .rct-icons-fa4 .rct-icon-check::before {
-  color: rgb(255, 75, 75);
+  color: rgb(4, 46, 76);
   font-size: 1.25rem;
   content: "\f14a";
 }
 
 .rct-icons-fa4 .rct-icon-half-check::before {
-  color: rgb(255, 75, 75);
+  color: rgb(4, 46, 76);
   font-size: 1.25rem;
   opacity: 0.5;
   content: "\f046";
