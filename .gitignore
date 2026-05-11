@@ -26,6 +26,7 @@ __pycache__/
 # Distribution / packaging
 .Python
 build/
+!streamlit_tree_select/frontend/build/
 develop-eggs/
 dist/
 downloads/

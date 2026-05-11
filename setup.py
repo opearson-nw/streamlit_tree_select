@@ -11,6 +11,9 @@ setuptools.setup(
     url="https://github.com/Schluca/streamlit_tree_select",
     packages=setuptools.find_packages(),
     include_package_data=True,
+    package_data={
+        "streamlit_tree_select": ["frontend/build/**/*"],
+    },
     classifiers=[],
     python_requires=">=3.6",
     install_requires=[
